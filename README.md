@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Allan! I'm a Fullstack Web Developer with an eye for detail. 
 
 <!--
 **al-jota/al-jota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
